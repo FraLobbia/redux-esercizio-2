@@ -1,4 +1,5 @@
 // src/App.js
+import "./assets/dist/css/style.min.css";
 import React, { useEffect } from "react";
 import { connect } from "react-redux";
 import { useDispatch } from "react-redux";
